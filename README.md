@@ -1,6 +1,4 @@
-# SWM-project
-
-CSE 573 Semantic Web Mining Project : Fake Reviews Detection
+#Fake Reviews Detection
 
 The prevalence of fake reviews poses a significant
 challenge for online platforms that rely on reviews to inform
